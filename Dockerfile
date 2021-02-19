@@ -1,4 +1,4 @@
-FROM nvidia/cuda:10.2-base
+FROM nvidia/cuda:11.2.1-base
 
 ENV NVIDIA_DRIVER_CAPABILITIES="compute,video,utility"
 
