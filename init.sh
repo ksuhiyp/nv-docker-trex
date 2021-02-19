@@ -13,4 +13,4 @@ echo Worker: $WORKER
 echo ============================================================
 
 
-./t-rex -c /config/config.json -a $ALGO -o $SERVER -u $WALLET -p x -w $WORKER 
+./t-rex -c /config/config.json  
